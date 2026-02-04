@@ -82,7 +82,8 @@ Toda a curadoria, interpretação teológica, linha narrativa e conclusões são
 - Bacharel em Direito  
 - Pós-graduado em Docência do Ensino Superior  
 - Capelão  
-- Coach  
+- Coach
+- Estudante de Sistemas de Informação e Engenharia de Software
 
 Ano: **2025**
 
