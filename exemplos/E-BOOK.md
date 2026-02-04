@@ -1,20 +1,33 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# 📘 A Mente de Abraão: Como os Judeus Pensam, Prosperam e Perpetuam
 
-## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+---
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+## 📝 Descrição
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Este livro em PDF apresenta um estudo profundo sobre a mentalidade judaica de prosperidade, identidade e legado, analisando princípios espirituais, educacionais e financeiros transmitidos ao longo de gerações. A obra conecta a tradição judaica à fé cristã, mostrando que prosperar é uma responsabilidade espiritual, ética e geracional.
+
+---
+
+## 🧠 Tecnologias e Ferramentas Utilizadas
+
+- IA Generativa **ChatGPT** para apoio na organização textual, revisão conceitual e clareza didática;
+- IA Generativa **Gemini** como ferramenta complementar de análise e refinamento de ideias;
+- Ferramentas de edição de texto para consolidação e formatação final do livro em PDF.
+
+---
+
+## ⚙️ Processo de Criação
+
+O conteúdo foi desenvolvido a partir de estudo bíblico, reflexão teológica e análise cultural da tradição judaica. As ferramentas de Inteligência Artificial foram utilizadas como **apoio intelectual**, auxiliando na estruturação do texto, na revisão de linguagem e na organização dos capítulos.  
+A curadoria, interpretação, linha narrativa e conclusões são de autoria do autor, mantendo total responsabilidade intelectual sobre o conteúdo apresentado.
+
+---
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-[LINK PARA O E-BOOK AQUI]()
+O livro entrega um material reflexivo, prático e acessível, abordando temas como identidade espiritual, educação financeira desde a infância, mentalidade geracional e legado. O resultado é um conteúdo que estimula o leitor a alinhar fé, trabalho e prosperidade com propósito, sabedoria e responsabilidade.
 
-## 💭 Reflexão
-Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
+---
+
+📄 **Livro completo em PDF:**  
+👉 [Acesse o livro em PDF](docs/A_Mente_de_Abraao.pdf)
