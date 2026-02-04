@@ -8,7 +8,7 @@ Este livro em PDF apresenta um estudo profundo sobre a mentalidade judaica de pr
 
 ---
 
-## 🧠 Tecnologias e Ferramentas Utilizadas
+## 🧠 Tecnologias e Ferramentas Utilizadaa
 
 - IA Generativa **ChatGPT** para apoio na organização textual, revisão conceitual e clareza didática;
 - IA Generativa **Gemini** como ferramenta complementar de análise e refinamento de ideias;
