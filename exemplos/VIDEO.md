@@ -38,7 +38,7 @@ Mais do que informar, o objetivo é **provocar reflexão e reposicionamento de m
 ---
 
 ## 🔗 Link para o Vídeo
-👉 [Assista ao vídeo completo aqui](COLE_AQUI_O_LINK_DO_VIDEO)
+👉 [Assista ao vídeo completo aqui](https://youtu.be/kdvd3qqPhyo)
 
 ---
 
