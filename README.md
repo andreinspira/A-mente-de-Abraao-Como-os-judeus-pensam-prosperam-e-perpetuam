@@ -35,7 +35,7 @@ Este projeto foi desenvolvido como um **estudo profundo, reflexivo e prático**,
 
 ## 🛠️ Metodologia e Ferramentas Utilizadas
 
-Este projeto foi **concebido, estruturado e revisado pelo autor**, com apoio de ferramentas de Inteligência Artificial como **ChatGPT** e **Gemini**, utilizadas para:
+Este projeto foi **concebido, estruturado e revisado pelo autor**, com apoio de ferramentas de Inteligência Artificial como **ChatGPT**, **NotebookLM** e **Gemini**, utilizadas para:
 
 - Organização textual  
 - Clareza conceitual  
