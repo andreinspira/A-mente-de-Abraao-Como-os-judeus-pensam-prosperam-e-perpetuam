@@ -31,7 +31,7 @@ A edição e montagem buscaram manter um ritmo contemplativo, coerente com a pro
 O vídeo funciona como uma **síntese conceitual** do projeto, permitindo ao espectador:
 - compreender a relação entre fé, identidade e prosperidade;
 - refletir sobre educação financeira e legado familiar;
-- despertar interesse pelo conteúdo completo disponível em PDF.
+- despertar interesse pelo conteúdo completo disponível em PDF
 
 Mais do que informar, o objetivo é **provocar reflexão e reposicionamento de mentalidade**.
 
