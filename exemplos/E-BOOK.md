@@ -30,4 +30,4 @@ O livro entrega um material reflexivo, prático e acessível, abordando temas co
 ---
 
 📄 **Livro completo em PDF:**  
-👉 [Acesse o livro em PDF](docs/A_Mente_de_Abraao.pdf)
+👉 [Acesse o livro em PDF](https://github.com/andreinspira/A-mente-de-Abraao-Como-os-judeus-pensam-prosperam-e-perpetuam/blob/main/docs/A%20Mente%20de%20Abraão%20-%20Como%20os%20judeus%20pensam%2C%20prosperam%20e%20perpetuam.pdf)
